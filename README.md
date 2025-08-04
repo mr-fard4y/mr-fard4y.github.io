@@ -6,9 +6,6 @@
 ### Installation
 
 ```
-gem install jekyll bundler
-jekyll new <project-name>
-bundle exec jekyll serve --watch
 
 ```
 ---
@@ -16,8 +13,6 @@ bundle exec jekyll serve --watch
 ### Deploy
 
 ```
-npm run develop
-npm run build
 
 ```
 ---
